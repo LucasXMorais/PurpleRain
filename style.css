@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255, 202, 248);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+canvas {
+    width: 1200px;
+    height: 500px;
+    background: #df85da;
+}
+
+.title {
+    width: 100%;
+    height: 50px;
+    color:rgb(146, 23, 184);
+    font-size: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-style: sans-serif;
+}
+
